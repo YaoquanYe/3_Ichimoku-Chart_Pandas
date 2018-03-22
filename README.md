@@ -1,1 +1,1 @@
-# 3_Ichimoku-Chart
+This project is called Ichimoku Chart. This is a famous tool in stock market and chartists can identify the trend and look for potential signals within that trend with one look. This is including using pandas and matplotlib modules in python
